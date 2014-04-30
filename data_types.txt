@@ -1,0 +1,15 @@
+// the list of data types along with array values
+0::ignore
+1::num
+2::net
+3::precip
+4::therm
+5::thermF
+6::poly
+7::flux
+8::netrad
+9::rt_sensor
+10::tmstmpcol
+11::datey
+12::dated
+13::dateh
